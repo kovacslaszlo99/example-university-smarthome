@@ -1,0 +1,9 @@
+{
+	"db" : {
+		"hostname" : "localhost",
+		"username" : "root",
+		"password" : "",
+		"datebase_name" : "smarthome",
+		"caracter_coding" : "utf8"
+	}
+}
